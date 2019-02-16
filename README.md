@@ -1,2 +1,2 @@
 # gamebox
-Raspberry Pi Gamecredits game developer box.
+Raspberry Pi Gamecredits game developer box image.
